@@ -11,6 +11,6 @@ My list of porto:
 ## Profile
 
 <p align="center">
-  <img src="pikachu.png" width="200">
+  <img src="image/pikachu.png" width="200">
 </p>
 
